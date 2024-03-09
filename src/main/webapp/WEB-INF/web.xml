@@ -10,18 +10,6 @@
     <welcome-file>default.jsp</welcome-file>
   </welcome-file-list>
   
-  
-   <servlet>
- <description></description>
- <display-name>GradeServlet</display-name>
- <servlet-name>GradeServlet</servlet-name>
- <servlet-class>GradeServlet</servlet-class>
- </servlet>
- <servlet-mapping>
- <servlet-name>GradeServlet</servlet-name>
- <url-pattern>/GradeServlet</url-pattern>
- </servlet-mapping>
- 
  
  
   <servlet>
